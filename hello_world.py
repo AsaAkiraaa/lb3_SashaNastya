@@ -1,1 +1,4 @@
-print("Changes from sasha")
+
+print("New world!")
+print("Changes from Nastya")
+
