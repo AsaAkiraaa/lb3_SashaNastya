@@ -1,1 +1,1 @@
-print("Changes from server")
+print("New world!")
